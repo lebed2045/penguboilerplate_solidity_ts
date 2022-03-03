@@ -15,10 +15,13 @@ npm run coverage
 ```
 
 ## Deploy contracts
+Open `.env.example` file and follow instructions.
+
+After that:
 ```
 npm run migrate -- --network rinkeby
 ```
-using hardhat
+Or using hardhat
 ```
 npx hardhat run scripts/deploy-mockerc20.ts --network rinkeby
 ```
