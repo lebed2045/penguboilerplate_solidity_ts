@@ -1,6 +1,6 @@
 # Deployment
 
-This is my development boilerplate for rapid ethereum smart-contract development. It includes code of mock erc20 token with typescript deployer via truffle, via hardhat plugin, hardhat test, and hardhat task. It also has code for vanity address deployment. 
+This is my development boilerplate for rapid ethereum smart-contract deployment. It includes code of mock erc20 token with typescript deployer via truffle, via hardhat plugin, hardhat test, and hardhat task. It also has code for vanity address deployment. 
 The code is based on https://github.com/dethcrypto/TypeChain/tree/master/examples/hardhat-truffe-v5 example.
 
 ## Compile
